@@ -1,0 +1,53 @@
+html,body {
+    background-color: #CFCFCF;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
+* {
+    outline: 1px solid red;
+}
+.boxTopWht {
+    background-color: #FFFFFF;
+    height: 30%;
+    margin: 5% 10%;
+    text-align: left;
+}
+    .clickRed {
+        background-color: red;
+        height: 5%;
+        width: 10%;
+        color: white;
+        margin: 2%;
+        padding: 1% 5%;
+        position: absolute;
+        bottom:auto;
+    }
+    .clickBlue {
+        background-color: blue;
+        height: 5%;
+        width: 10%;
+        color: white;
+        marign: 2%;
+        padding: 1% 5%;
+        position: absolute;
+        bottom: auto;
+    }
+/*.boxMidWht {
+    background-color: #FFFFFF;
+    height: 70%;
+    margin: 5% 10%;
+}
+    .t1 {
+        text-align: left;
+        top: auto;
+    }
+.boxBotBlk {
+    background-color: #262626;
+    height: 10%;
+    width: 100%;  
+    object-position: bottom;
+    
+}*/
