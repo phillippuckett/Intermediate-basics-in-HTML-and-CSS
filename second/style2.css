@@ -13,19 +13,24 @@ html,body {
     background-color: #FFFFFF;
     height: 30%;
     margin: 5% 10%;
-    text-align: left;
+    padding: 2%;
 }
+    .t1 {
+        font-size: 20px;
+        color: steelblue;
+        margin: 2%;
+    }
     .clickRed {
         background-color: red;
         height: 5%;
         width: 10%;
         color: white;
         margin: 2%;
-        padding: 1% 5%;
+        padding-right: 5%;
         position: absolute;
         bottom:auto;
     }
-    .clickBlue {
+   /* .clickBlue {
         background-color: blue;
         height: 5%;
         width: 10%;
@@ -34,7 +39,7 @@ html,body {
         padding: 1% 5%;
         position: absolute;
         bottom: auto;
-    }
+    }*/
 /*.boxMidWht {
     background-color: #FFFFFF;
     height: 70%;
